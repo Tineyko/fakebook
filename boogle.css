@@ -1,0 +1,129 @@
+img {
+    width: 200px;
+    height: 0 auto;
+    display: block; 
+}
+.logo {
+    margin: 0 auto;
+    display: block;
+    
+}
+.search {
+    margin-top: 16px;
+    height: 44px;
+    font-size: 16px;
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    z-index: 1;
+    position: relative;
+    box-sizing: border-box
+}
+.wrap{
+    padding:0; 
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid #00A;
+    background-color:#FFF;
+    }
+.portrait {
+     margin: 0 auto;   
+     border-radius: 50%; 
+     height: 72px;
+     width: 72px;
+     background-size: 72px;
+     display: block;
+     overflow: hidden;
+     border-radius: 50%;
+     margin-left: auto;
+     margin-right: auto;
+     z-index: 100;
+     margin-bottom: 10px;
+    background-color: #f1f1f1;
+}
+
+.glava {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.vizitka {
+    background-color: #f7f7f7;
+    padding: 20px 25px 30px;
+    margin: 0 auto 25px;
+    width: 304px;
+    border-radius: 2px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.tekst {
+    text-align: center;
+}
+
+.search-wrap {
+    width: inherit;
+    margin: 0 auto;
+}
+
+.button {
+    width: 100%;
+    display: block;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: white;
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    z-index: 1;
+    position: relative;
+    box-sizing: border-box;
+    font-weight: 700;
+    height: 36px;
+}
+
+.help-link {
+    float: right;
+    text-align: right;
+    color: #427fed;
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+.tekst-main {
+    font-family: 'Open Sans', arial;
+    color: #555;
+    font-size: 42px;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    margin: 0 0 15px;
+    
+}
+
+.tekst-sub {
+    font-family: 'Open Sans', arial;
+    color: #555;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.slika {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.create-acc {
+    text-align: center;
+    color: #427fed;
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
